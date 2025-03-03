@@ -1,3 +1,9 @@
+/*
+Write a client that creates a symbol table mapping letter grades to numerical scores, as in the table
+below, then reads from standard input a list of letter grades and computes and prints the GPA (the average
+of the numbers corresponding to the grades).
+
+*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
